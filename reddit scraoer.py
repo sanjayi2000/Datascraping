@@ -6,9 +6,9 @@ from datetime import datetime  # Import datetime for timestamp conversion
 
 # Initialize Reddit client
 reddit = praw.Reddit(
-    client_id='Tzniem3s-PbehsAPw8U6ww',
-    client_secret='1eULDos6kGtudYpPC_gDQPSBwpch8A',
-    user_agent='python:personalproject:1.0 (by /u/Ratkovichh)'
+    client_id='',
+    client_secret='',
+    user_agent=''
 )
 
 # Prompt user for input keyword and number of posts
